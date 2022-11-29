@@ -1,0 +1,9 @@
+Objeto
+ - Datos
+ - Protoipo: De donde se construye o cómo se construye Y cómo guarda los datos, 
+    así como qué métodos puede ejecutar. Se basa en una clase para decirle al 
+    objeto en tiempo de ejecución cómo guardar y qué ejecutar
+
+Clase: Molde que definimos nosotros
+ - Atributos: No tiene datos guardados
+ - Métodos: Acciones que realiza el objeto
