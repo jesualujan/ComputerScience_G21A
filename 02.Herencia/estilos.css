@@ -1,0 +1,20 @@
+/* Le va a aplicar estilos a TODO */
+*{
+
+}
+
+/* Le va a aplicar estilos a etiquetas quienes tengan class="section" */
+.section{
+
+}
+
+/* Selecciona unicamente etiquetas section*/
+section{
+    border-radius: 0.5em;
+    color:white;
+    background-color: darkgrey;
+    margin-bottom: 1rem;
+    padding: 25px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
